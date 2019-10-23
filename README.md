@@ -10,12 +10,12 @@ FreeWarn is a free alternative to the popular GmodStore addon AWarn2<br/>
 
 ###Config<br/>
 
-fwconfig.allowedgroups = {"superadmin", "admin"} -- Which ULX groups can issue warns from the menu
-fwconfig.requirereason = true --not implemented
-fwconfig.bantime = 180 -- not implemented, currently kicks
-fwconfig.allowedwarns = 3 -- amount of warns before player is auto kicked
-fwconfig.sql = {} - any thing sql is not implemented
-fwconfig.enabled = false
-fwconfig.sql.ip = "127.0.0.1"
-fwconfig.sql.port = "1433"
-fwconfig.sql.table = "freewarn"
+fwconfig.allowedgroups = {"superadmin", "admin"} -- Which ULX groups can issue warns from the menu<br/>
+fwconfig.requirereason = true --not implemented<br/>
+fwconfig.bantime = 180 -- not implemented, currently kicks<br/>
+fwconfig.allowedwarns = 3 -- amount of warns before player is auto kicked<br/>
+fwconfig.sql = {} - any thing sql is not implemented<br/>
+fwconfig.enabled = false<br/>
+fwconfig.sql.ip = "127.0.0.1"<br/>
+fwconfig.sql.port = "1433"<br/>
+fwconfig.sql.table = "freewarn"<br/>
